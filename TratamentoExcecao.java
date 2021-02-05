@@ -1,9 +1,7 @@
 // Classe utilizada para fazer os tratamentos de excecao
  
 public class TratamentoExcecao extends Exception {
- // UID do erro
-  private static final long serialVersionUID = 3;
-  
+ 
   private String msg;
   /**
    * Construtor da classe
