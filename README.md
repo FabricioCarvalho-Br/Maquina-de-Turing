@@ -1,5 +1,5 @@
 # MaquinaTuring
-Esse é um projeto onde o objetivo é criar um programa que simule a execução de uma máquina de turing.
+Esse é um projeto onde o objetivo é criar um programa que simule a execução de uma máquina de turing. Esse projeto foi desenvolvido por mim e pelo usuário matheusrsp91.
 
 **Para que esse programa funcione de maneira adequada precisamos seguir os seguintes cuidados**:
 
