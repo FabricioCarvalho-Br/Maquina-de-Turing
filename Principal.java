@@ -19,12 +19,4 @@ public class Principal {
     transicao.fazerTransicao();
    }
 }
-// alfabeto diferente X Excessao -> feito
-//  transição invalida  X Excessao -> fizemos para qualquer problema que possa ocorrer com a transição, seja ela invalida, ou falte uma, etc.
-// fazer duas entradas BB1111 e saidas e maquinas -> feito
-// Compartilhar no github e la criar o passo a passo 
-// Entregar so o link do git 
-/**
- * Quando eu compilo para que seja criado o .class , se eu apagar ele e tentar compilar novamente
- *  se eu nao fizer nenhuma alteração no codigo eu não consigo criar o .class novamente.
- */
+
